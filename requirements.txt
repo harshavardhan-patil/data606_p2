@@ -11,7 +11,3 @@ scikit-learn
 tqdm
 typer
 pandas
-psycopg2-binary
-pgvector
-faiss-gpu
-torch
