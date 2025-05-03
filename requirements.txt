@@ -1,0 +1,17 @@
+ipython
+jupyterlab
+matplotlib
+mkdocs
+notebook
+numpy==1.26.4
+pip
+python-dotenv
+ruff
+scikit-learn
+tqdm
+typer
+pandas
+psycopg2-binary
+pgvector
+faiss-gpu
+torch
